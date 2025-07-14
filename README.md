@@ -1,4 +1,4 @@
-# 🚀 **VPN Project**
+# 🚀 **VPN (Virtual Private Network)**
 
 A lightweight and secure VPN implementation using Python. This project leverages TUN/TAP devices and AES encryption for secure communication in a client-server architecture.
 
